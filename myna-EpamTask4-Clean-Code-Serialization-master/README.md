@@ -1,2 +1,2 @@
-# Keertana-EpamTask4-Clean-Code-Serialization
+# myna-EpamTask4-Clean-Code-Serialization
 Clean Code and Serialization
